@@ -6,7 +6,7 @@ The existing emergency alarm systems of large-scale enterprises cannot provide t
 # Solution Overview
 The proposed solution is a user-friendly, IoT-based emergency response system that will provide real-time location data, enable rapid incident acknowledgment via RFID, use advanced technologies like image processing to assess the severity of the emergency and guide the appropriate response, and analyze log details to give future predictions to prevent hazards.
 
-# components
+# Components
 IT21203626 | Mindinu G.P.D.A.​ - Sender Device​ & Image Processing.
 
 IT21388620 | Samanayaka P.V.I.R - Receiver Device and RFID Authentication.
