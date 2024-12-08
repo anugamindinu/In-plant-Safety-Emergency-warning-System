@@ -7,5 +7,4 @@ The existing emergency alarm systems of large-scale enterprises cannot provide t
 The proposed solution is a user-friendly, IoT-based emergency response system that will provide real-time location data, enable rapid incident acknowledgment via RFID, use advanced technologies like image processing to assess the severity of the emergency and guide the appropriate response, and analyze log details to give future predictions to prevent hazards.
 
 # Architectural Diagram
-
-![Screenshot 2024-12-07 221235](https://github.com/user-attachments/assets/de9888ee-2a9a-4d15-add8-bf3eb1008fe3)
+![WhatsApp Image 2024-12-08 at 8 41 06 PM](https://github.com/user-attachments/assets/c8fb8a2b-8cbe-4015-a01b-dad7367d4fa2)
