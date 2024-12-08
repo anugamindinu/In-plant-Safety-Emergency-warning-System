@@ -18,4 +18,4 @@ IT21232572 | Sepala S. N.​ - Fire Detection and Coverage Analysis with Image P
 
 
 # Architectural Diagram
-![WhatsApp Image 2024-12-08 at 8 41 06 PM](https://github.com/user-attachments/assets/c8fb8a2b-8cbe-4015-a01b-dad7367d4fa2)
+![Architectural Diagram](https://github.com/user-attachments/assets/2b5c978a-e9bf-430f-839a-f82efdcf569f)
